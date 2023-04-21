@@ -6,14 +6,16 @@ Here's all the different types of SQL practice I practiced:
 
 ### Learn SQL in stages
 - 0 SELECT basics 
-- 1 SELECT name 
-- 5 SUM and COUNT 
 - 6 JOIN
 
 ### How To...
-- 2 CREATE and DROP
-- 3 INSERT and DELETE
 - 1 SELECT
-- 5 Functions
+    ➡️ Full text search
+- 4 DATE and TIME 
+    ➡️ YYYYMMDD date format
+- 5 Functions - Concatenate Strings
+- 2 CREATE and DROP 
+    ➡️ CREATE a new table
+     DROP a table 
 
 
